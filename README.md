@@ -13,5 +13,5 @@ The node packages used for this project were:
 2. mysql
 
 
-## Here's a gif of how the project works:
+## Here's a gif of how the project works: :bowtie:
 ![Bamazon Customer GIF](https://github.com/xSamuraix/bamazon/blob/master/gifs/bamazonCustomer.gif)
