@@ -14,4 +14,4 @@ The node packages used for this project were:
 
 
 ## Here's a gif of how the project works:
-![Bamazon Customer GIF] (https://github.com/xSamuraix/bamazon/blob/master/gifs/bamazonCustomer.gif)
+![Bamazon Customer GIF](https://github.com/xSamuraix/bamazon/blob/master/gifs/bamazonCustomer.gif)
